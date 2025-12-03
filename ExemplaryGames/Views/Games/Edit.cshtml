@@ -1,0 +1,52 @@
+﻿@model ExemplaryGames.Models.Game
+
+@{
+    ViewData["Title"] = "Edit Game";
+}
+
+<div class="newStyle">
+    <h1>Want to edit you listing At Exemplary Games</h1>
+    <p>It's easy just change the information for your item</p>
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+
+        <div class="condition">
+            <label asp-for="Condition"></label>
+            <select asp-for="Condition" asp-items="Html.GetEnumSelectList<ExemplaryGames.Models.GameCondition>()" value="@Model.Condition"></select>
+        </div>
+
+        <div class="title">
+            <label asp-for="Title">Title:</label>
+            <input asp-for="Title" type="text" id="title" name="title" value="@Model.Title" />
+        </div>
+
+        <div class="price">
+            <label asp-for="Price">Price:</label>
+            <input asp-for="Price" type="number" id="price" name="price" value="@Model.Price" />
+        </div>
+
+        <div class="details">
+            <label asp-for="Details">Details:</label>
+            <input asp-for="Details" type="text" id="details" name="details" value="@Model.Details" />
+        </div>
+
+        <div class="imageFile">
+            @if (!string.IsNullOrEmpty(Model.ImagePath))
+            {
+                <div class="imageFile">
+                    <p>Current Image:</p>
+                    <img src="@Model.ImagePath" alt="@Model.Title" />
+                </div>
+            }
+            <div class="imageFile">
+                <label for="imageFile">New Image:</label>
+                <input type="file" name="image" accept="image/*" />
+            </div>
+        </div>
+
+        <div class=" submit">
+            <input type="submit" />
+        </div>
+    </form>
+</div>
+

@@ -1,0 +1,47 @@
+﻿@model ExemplaryGames.Models.Game
+@using ExemplaryGames.Models
+
+@{
+    ViewData["Title"] = "Offers for " + Model.Title;
+}
+
+<div class="offerStyle">
+    <div class="usersOffers">
+        @if (Model.Offers.Any())
+        {
+            <h1>Your offers for @Model.Title</h1>
+            <div class="displayAll">
+                <h3 class="buyerHeader">Buyer</h3>
+                <h3 class="amountHeader">Amount</h3>
+                <h3 class="acceptHeader">Action</h3>
+            </div>
+            @foreach (var offer in Model.Offers)
+            {
+                <div class="allOffers">
+                    <p class="buyerField">@offer.Buyer.FirstName @offer.Buyer.LastName</p>
+                    <p class="amountField">@offer.Amount</p>
+                    @if (@offer.Status == OfferStatus.Pending)
+                    {
+                        <form asp-controller="Offers" asp-action="Accept" method="post">
+                            @Html.AntiForgeryToken()
+
+                            <!-- only needed in post actions -->
+                            <input type="hidden" name="offerId" value="@offer.Id" />
+                            <button class="acceptButton" type="submit">Accept</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <p class="statusParagraph">@offer.Status</p>
+                    }
+                </div>
+            }
+        }
+        else
+        {
+            <p class="userErrorText">No Offers Currently</p>
+        }
+    </div>
+</div>
+
+

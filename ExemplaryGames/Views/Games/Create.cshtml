@@ -1,0 +1,56 @@
+﻿@model ExemplaryGames.Models.Game//binds to game
+
+@{
+    ViewData["Title"] = "Create Game";
+}
+
+<div class="newStyle">
+    <!-- asp-for: binds my form fields to properies in the model -->
+    <h1>Want to Sell At Exemplary Games</h1>
+    <p>It's easy fill out the information for your item or snap a picture with your phone</p>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <!-- enctype="multipart/form-data" is required for file upload -->
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="condition">
+            <label asp-for="Condition" for="condition">Condition:</label>
+            <!-- Html.GetEnumSelectList<GameCondition>(): builds a dropdown from the enum -->
+            <select asp-for="Condition" asp-items="Html.GetEnumSelectList<GameCondition>()" id="condition" name="condition"></select>
+            <span asp-validation-for="Condition"></span>
+        </div>
+
+        <div class="title">
+            <label asp-for="Title" for="title">Title:</label>
+            <input asp-for="Title" id="title" name="title" />
+            <span asp-validation-for="Title"></span>
+        </div>
+
+        <div class="price">
+            <label asp-for="Price" for="price">Price:</label>
+            <input asp-for="Price" id="price" name="price" />
+            <span asp-validation-for="Price"></span>
+        </div>
+
+        <div class="details">
+            <label asp-for="Details" for="details">Details:</label>
+            <input asp-for="Details" id="details" name="details" />
+            <span asp-validation-for="Details"></span>
+        </div>
+
+        <div class="imageFile">
+            <label asp-for="ImagePath" for="imageFile">Image:</label>
+            <input type="file" id="imageFile" name="image" accept="image/png, image/jpeg" /> <!-- asp-for is for model properties, imagePath is a string but type file returns bytes -->
+            <span asp-validation-for="ImagePath"></span>
+        </div>
+
+        <div class="submit">
+            <input type="submit" />
+        </div>
+    </form>
+</div>
+
+
+@section Scripts 
+{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }<!-- used to make the asp-validation-for code work, showing the messages, uses JQuery lib -->
+}
+

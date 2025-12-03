@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="loginStyle">
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(value => value.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    }
+
+    <h1>Already have an account? Go Ahead and Log in!</h1>
+    <form asp-action="Login" method="post">
+        @Html.AntiForgeryToken()
+
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState.Values.SelectMany(value => value.Errors).Any())
+        {
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(value => value.Errors))
+            {
+                <div class="flashMessages">
+                    <div class="errorMsg">@error.ErrorMessage</div>
+                </div>
+            }
+        }
+
+        <div class=" userName">
+            <label for="userName">Email:</label>
+            <input type="text" id="username" name="email" />
+        </div>
+
+        <div class="userPassword">
+            <label for="userPassword">Password:</label>
+            <input type="text" id="userPassword" name="password" />
+        </div>
+
+        <div class="loginButton">
+            <button>Login</button>
+        </div>
+    </form>
+</div>

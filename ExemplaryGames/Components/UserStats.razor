@@ -1,0 +1,100 @@
+﻿@using ExemplaryGames.Models
+@using Microsoft.EntityFrameworkCore
+@inject ExemplaryGames.Models.AppDbContext con   
+
+@code {
+    [Parameter]//varaible will be passed in from outside
+    public int UserId {get; set; }
+
+    private int totalListings;
+    private int activeListings;
+    private int offersReceived;
+    private int offersAccepted;
+    private int offersMade;
+    private decimal totalSales;
+    private decimal averageSalePrice;
+
+    private bool isLoaded;//used to show a loading state until data is ready
+
+    protected override async Task OnParametersSetAsync()//blazor lifecycle method called when parameters are set
+    {
+        if(UserId <= 0)//not valid user id
+        {
+            isLoaded = true;//is loading is true
+            return;
+        }
+
+        //All games this user is selling
+        totalListings = await con.Games//load Games database
+            .CountAsync(game => game.SellerId == UserId);//count how many rows have the same user and seller id
+
+        //Active Lisitngs
+        activeListings = await con.Games//load Games database
+            .CountAsync(game => game.SellerId == UserId && game.Active);//count how many rows have the same user and seller id and are also active
+
+        //Offers received on games this user is selling
+        offersReceived = await con.Offers//load Offers database
+            .Include(offer => offer.Game)//Join the Games database with the Offers database
+            .CountAsync(offer => offer.Game != null && offer.Game.SellerId == UserId);//count how many rows for the offers if the game exists and the seller and user id match
+
+        //offers accepted on games this user is selling
+        var acceptedOffers = await con.Offers//load Offers database
+            .Include(offer => offer.Game)//Join the Games database with the Offers database
+            .Where(offer => offer.Game != null && offer.Game.SellerId == UserId && offer.Status == OfferStatus.Accepted)//filter the offers by if the game exists, the seller and user id match, and the status is active
+            .ToListAsync();
+
+        offersAccepted = acceptedOffers.Count;//store accepted offers count in the variable
+        totalSales = acceptedOffers.Sum(offer => offer.Amount);//store the sum of all the offers in the accepted offers variable in the total sales variable
+        averageSalePrice = acceptedOffers.Count > 0 ? acceptedOffers.Average(offer => offer.Amount) : 0m;//if the accepted offers count is higher than 0 then find the average of the accepted offers amount and if it is not higher than zero set the value to the default 0
+
+        //offers made this user as buyer
+        offersMade = await con.Offers//load Offers database
+            .CountAsync(offer => offer.BuyerId == UserId);//count how many rows there are where buyer and user id match
+
+        isLoaded = true;//set is loaded to true
+    }
+}
+
+@if(!isLoaded)
+{
+    <div class="profileDashboard loading">
+        <p>Loading your information...</p>
+    </div>
+}
+else
+{
+    <div class="profileDashboard">
+        <h2>Your Marketplace Data</h2>
+        <div class="statsGrid">
+            <div class="statCard">
+                <h3>Total Listings</h3>
+                <p>@totalListings</p>
+            </div>
+            <div class="statCard">
+                <h3>Active Listings</h3>
+                <p>@activeListings</p>
+            </div>
+            <div class="statCard">
+                <h3>Offers Listings</h3>
+                <p>@offersAccepted</p>
+            </div>
+            <div class="statCard">
+                <h3>Offers Accepted</h3>
+                <p>@offersAccepted</p>
+            </div>
+            <div class="statCard">
+                <h3>Offers Made</h3>
+                <p>@offersMade</p>
+            </div>
+            <div class="statCard">
+                <h3>Total Sales</h3>
+                <p>@totalSales.ToString("C")</p><!--"C" formats the decimal to currency-->
+            </div>
+            <div class="statCard">
+                <h3>Average Sale Price</h3>
+                <p>@averageSalePrice.ToString("C")</p>
+            </div>
+        </div>
+    </div>
+}
+

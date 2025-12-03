@@ -1,0 +1,87 @@
+﻿@model ExemplaryGames.Models.User
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="profileStyle">
+    <h1>Welcome @Model.FirstName @Model.LastName</h1>
+    <div class="usersProducts">
+
+        <!--
+            component tag is a blazor tag helper to render blazor component
+            type="typeof(ExemplaryGames.Components.UserStats)": Tells asp.net which component to render
+            render-mode="ServerPrerendered": render the components html on the blazor server initially, and after connecting to blazor.server.js it activate it
+            param-UserId="Model.Id": passes the id into the component (userId)
+        -->
+        <component type="typeof(ExemplaryGames.Components.UserStats)" render-mode="ServerPrerendered" param-UserId="Model.Id" />
+
+        @if (Model.GamesForSale.Any())
+        {
+            <div class="display">
+                <h3 class="productTitle">Title</h3>
+                <h3 class="productStatus">Status</h3>
+                <h3 class="productAction">Actions</h3>
+            </div>
+            @foreach (var game in Model.GamesForSale)
+            {
+                <div class="usersListings">
+                    <a asp-controller="Games" asp-action="Details" asp-route-id="@game.Id">@game.Title</a>
+                    @if (game.Active == true)
+                    {
+                        <p class="activeStatus">Active</p>
+                    }
+                    else
+                    {
+                        <p class="activeStatus">Inactive</p>
+                    }
+
+                    <form asp-controller="Games" asp-action="Edit" asp-route-id="@game.Id" method="get">
+                        <button type="submit"><i class="fa-solid fa-pen-to-square"></i></button>
+                    </form>
+                    <form asp-controller="Games" asp-action="Delete" asp-route-id="@game.Id" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <button type="submit"><i class="fa-solid fa-trash"></i></button>
+                    </form>
+
+                    <!--
+                    <a class="viewButton" href="Url.Action("Index", "Offers", new { gameId = game.Id })">View Offers</a>
+                    -->
+
+                    <form asp-controller="Offers" asp-action="Index" method="get">
+                        <input type="hidden" name="gameId" value="@game.Id" />
+                        <button class="viewButton" type="submit">View Offers</button>
+                    </form>
+
+                </div>
+            }
+        }
+        else
+        {
+            <p class="userErrorText">You have no games listed</p>
+        }
+
+        @if (Model.Offers != null && Model.Offers.Any())
+        {
+            <div class="displayOffer">
+                <h3 class="offerTitle">Title</h3>
+                <h3 class="offerStatusTitle">Status</h3>
+                <h3 class="offerAmountTitle">Amount</h3>
+            </div>
+            foreach (var offer in Model.Offers)
+            {
+                <div class="offersListing">
+                    <a asp-controller="Games" asp-action="Details" asp-route-id="@offer.GameId"><p>@offer.Game.Title</p></a>
+                    <p class="offerStatus">@offer.Status</p>
+                    <p class="offerAmount">@offer.Amount</p>
+                </div>
+            }
+        }
+        else
+        {
+            <p class="userErrorText">You currently have no offers</p>
+        }
+    </div>
+</div>
+

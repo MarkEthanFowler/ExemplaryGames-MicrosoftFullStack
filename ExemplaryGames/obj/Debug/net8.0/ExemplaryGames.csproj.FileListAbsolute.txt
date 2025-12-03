@@ -1,0 +1,591 @@
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\appsettings.Development.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\appsettings.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.runtime.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.endpoints.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.exe
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.deps.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.runtimeconfig.json
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Azure.Core.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Azure.Identity.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Humanizer.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.ClientModel.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.CodeDom.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.AssemblyReference.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfoInputs.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfo.cs
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.CoreCompileInputs.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.MvcApplicationPartsAssemblyInfo.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cs
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\scopedcss\bundle\ExemplaryGames.styles.css
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\scopedcss\projectbundle\ExemplaryGames.bundle.scp.css
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\staticwebassets.development.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\Exemplar.51250900.Up2Date
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\refint\ExemplaryGames.dll
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.genruntimeconfig.cache
+D:\ExemplaryGames\ExemplaryGames\obj\Debug\net8.0\ref\ExemplaryGames.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\appsettings.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.endpoints.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.runtime.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.exe
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.deps.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.runtimeconfig.json
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.pdb
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Azure.Core.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Azure.Identity.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Humanizer.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.ClientModel.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.CodeDom.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Memory.Data.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.AssemblyReference.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfoInputs.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfo.cs
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.CoreCompileInputs.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cs
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\scopedcss\bundle\ExemplaryGames.styles.css
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\scopedcss\projectbundle\ExemplaryGames.bundle.scp.css
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\Exemplar.51250900.Up2Date
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.dll
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\refint\ExemplaryGames.dll
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.pdb
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.genruntimeconfig.cache
+D:\New folder\ExemplaryGames\obj\Debug\net8.0\ref\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\appsettings.Development.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\appsettings.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.endpoints.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.runtime.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.exe
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.deps.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.runtimeconfig.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Azure.Core.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Azure.Identity.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Humanizer.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.ClientModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.CodeDom.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.AssemblyReference.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfoInputs.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfo.cs
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.CoreCompileInputs.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.MvcApplicationPartsAssemblyInfo.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cs
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\bundle\ExemplaryGames.styles.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\projectbundle\ExemplaryGames.bundle.scp.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.development.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\Exemplar.51250900.Up2Date
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\refint\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.genruntimeconfig.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ref\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\appsettings.Development.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\appsettings.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.runtime.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.staticwebassets.endpoints.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.exe
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.deps.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.runtimeconfig.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Azure.Core.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Azure.Identity.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Humanizer.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.ClientModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.CodeDom.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.AssemblyReference.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfoInputs.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.AssemblyInfo.cs
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.csproj.CoreCompileInputs.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.MvcApplicationPartsAssemblyInfo.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.RazorAssemblyInfo.cs
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.sourcelink.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\bundle\ExemplaryGames.styles.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\scopedcss\projectbundle\ExemplaryGames.bundle.scp.css
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.development.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\Exemplar.51250900.Up2Date
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\refint\ExemplaryGames.dll
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.pdb
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ExemplaryGames.genruntimeconfig.cache
+D:\ExemplaryGames-MicrosoftFullStack\ExemplaryGames-MicrosoftFullStack\ExemplaryGames\obj\Debug\net8.0\ref\ExemplaryGames.dll

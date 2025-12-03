@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="newUserStyle">
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(value => value.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    }
+
+    <h1>Ready to Sign up!</h1>
+    <p>Enter your information below</p>
+    <form asp-action="Register" method="post">
+
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState.Values.SelectMany(value => value.Errors).Any())
+        {
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(value => value.Errors))
+            {
+                <div class="flashMessages">
+                    <div class="errorMsg">@error.ErrorMessage</div>
+                </div>
+            }
+        }
+
+        <div class="userFirstName">
+            <label for="firstName">First Name:</label>
+            <input type="text" id="firstName" name="firstName" />
+        </div>
+
+        <div class="userLastName">
+            <label for="lastName">Last Name:</label>
+            <input type="text" id="lastName" name="lastName" />
+        </div>
+
+        <div class="userEmail">
+            <label for="Email">Email:</label>
+            <input type="text" id="Email" name="Email" />
+        </div>
+
+        <div class="userPassword">
+            <label for="Password">Password:</label>
+            <input type="text" id="Password" name="Password" />
+        </div>
+
+        <div class="userSubmit">
+            <button>Create</button>
+        </div>
+    </form>
+</div>

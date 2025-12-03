@@ -1,0 +1,83 @@
+﻿@model ExemplaryGames.Models.Game
+@using System.Security.Claims;
+
+@{
+    ViewData["Title"] = "Game Details";
+}
+
+<div class="itemStyle">
+    <div class="product">
+        <div class="listing">
+            <img src="@Model.ImagePath" alt="@Model.Title">
+            <div class="productInfo">
+                <p>Name: @Model.Title</p>
+                <p>Condition: @Model.Condition</p>
+                <p>Price: $@Model.Price</p>
+                @if (Model.Seller != null)
+                {
+                    <p>Seller: @Model.Seller.FirstName @Model.Seller.LastName</p>
+                }
+                <p>@Model.TotalOffers Offer</p>
+                <p>@Model.Details</p>
+            </div>
+        </div>
+        <div class="offerSection">
+            <div class="currentMax">
+                @if (Model.Active == true)
+                {
+                    @if (Model.MaxOffer == 0)
+                    {
+                        <p class="descriptionText">There are currently no offers for this game</p>
+                    }
+                    else
+                    {
+                        <p class="descriptionText">This games current highest offer is $@Model.MaxOffer</p>
+                    }
+                }
+                else
+                {
+                    <p class="descriptionText">This game is no longer available.</p>
+                }
+            </div>
+
+            @{
+                var currentUserIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                int currentUserId;
+                bool isLoggedIn = int.TryParse(currentUserIdString, out currentUserId);
+                bool isSeller = isLoggedIn && Model.SellerId == currentUserId;
+            }
+
+            @if (Model.Active == true)
+            {
+                @if (isLoggedIn && !isSeller)
+                {
+                    <form id="offerForm" class="offerform" asp-controller="Offers" asp-action="Create" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <!-- name must match parameter and is required -->
+                        <input type="hidden" name="gameId" value="@Model.Id" />
+
+                        <label for="offerbox">Enter your offer here:</label>
+                        <div class="submitOffer">
+                            <input type="number" id="offerbox" name="amount" step="0.01" min="0.01">
+                            <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                        </div>
+                    </form>
+
+                    <div id="offerResult" style="border: 3px solid red; color: white; padding: 1rem; font-size: 1.5rem; margin-top: 1rem;">OFFERRESULT DEBUG TEXT</div>
+                }
+                else if (!isLoggedIn)
+                {
+                    <p>
+                        <a asp-controller="Users" asp-action="Login">Log in</a> to make an offer on this game
+                    </p>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="~/js/offerForm.js"></script>
+}

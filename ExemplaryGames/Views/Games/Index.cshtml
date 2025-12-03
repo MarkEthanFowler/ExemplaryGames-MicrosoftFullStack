@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ExemplaryGames.Models.Game>
+
+@{
+    ViewData["Title"] = "Browse Games";
+}
+
+@if(Model == null || !Model.Any())
+{
+    <div class="itemsStyle">
+        <p>There are no items to display</p>
+    </div>
+    
+}
+else
+{
+    <div class="itemsStyle">
+        <div class="products">
+            @foreach (var game in Model)
+            {
+                @if (game.Active == true)
+                {
+                    <!-- asp-contoller="Games": go to the game controller -->
+                    <!-- asp-action="Details": use the Details Task<IActionResult> -->
+                    <!-- asp-route-id="game.Id": pass the ID from the game object -->
+                    <!-- This is the equivalent to generating /Games/Details/# -->
+                    <a asp-contoller="Games" asp-action="Details" asp-route-id="@game.Id">
+                        <div class="listings">
+                            <img src="@game.ImagePath" alt="@game.Title">
+                            <div class="productInfo">
+                                <p>@game.Title</p>
+                                <p>@game.Condition</p>
+                                <p>@game.Price</p>
+                                <p>@game.TotalOffers</p>
+                            </div>
+                        </div>
+                    </a>
+                }
+            }
+        </div>
+    </div>
+}
